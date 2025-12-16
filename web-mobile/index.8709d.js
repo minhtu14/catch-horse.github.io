@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:web-mobile/index.8709d.js
 System.register(["./application.e7ba1.js"], function (_export, _context) {
-========
-System.register(["./application.cc965.js"], function (_export, _context) {
->>>>>>>> c33c10a957983fdcfc736f2312a389c95de771f4:web-mobile/index.20d49.js
   "use strict";
 
   var Application, canvas, $p, bcr, application;
